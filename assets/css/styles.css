@@ -107,8 +107,8 @@ body {
   transition: 0.3s;
 }
 .body ul li a img {
-  height: 20vw;
-  width: 20vw;
+  height: 15vw;
+  width: 15vw;
   -o-object-fit: cover;
      object-fit: cover;
   -webkit-clip-path: polygon(20% 0%, 80% 0%, 100% 20%, 100% 80%, 80% 100%, 20% 100%, 0% 80%, 0% 20%);
