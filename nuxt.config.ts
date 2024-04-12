@@ -17,7 +17,7 @@ export default defineNuxtConfig({
       default: './config/apollo.ts'
     }
   },
-  // css: [
-  //   '@/assets/css/styles.css'
-  // ]
+  css: [
+    '@/assets/css/styles.css'
+  ]
 })

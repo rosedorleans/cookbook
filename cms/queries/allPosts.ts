@@ -12,6 +12,10 @@ export default gql`
         coverImage {
           url
         }
+        category {
+          id
+          name
+        }
       }
 
       _allPostsMeta {
